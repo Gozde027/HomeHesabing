@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Home Hesabing</string>
+    <string name="app_name_turkish">Ev Hesaplaması</string>
+    <string name="action_settings">Settings</string>
+</resources>
